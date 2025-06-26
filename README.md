@@ -3,7 +3,9 @@
 
 [NDK r27 Clang 18 Hikari 混淆器 LLVM Pass 插件加载方案](https://eterocell.com/posts/7dbf3410)
 
-### 首先请你阅读上述这两篇教程，如果按照上面的教程来，没什么问题，下面的就没什么必要看了
+[llvm学习（十一）：史上最优雅的NDK加载pass方案](https://leadroyal.cn/p/1008/)
+
+### 首先请你阅读上述教程，如果按照上面的教程来，没什么问题，下面的就没什么必要看了
 
 ------
 
